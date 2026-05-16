@@ -30,7 +30,7 @@ const brands = [
   },
   {
     name: "infinix",
-    logo: "https://i.postimg.cc/x8f9FcQL/vecteezy-infinix-brand-logo-phone-symbol-black-design-china-mobile-20927126.jpg",
+    logo: "https://i.postimg.cc/DzwDDL4k/infinix-seeklogo.png",
   },
   {
     name: "Apple Gadgets",
