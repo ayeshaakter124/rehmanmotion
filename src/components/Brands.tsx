@@ -30,7 +30,7 @@ const brands = [
   },
   {
     name: "Infinix",
-    logo: (
+    logo: "https://i.postimg.cc/x8f9FcQL/vecteezy-infinix-brand-logo-phone-symbol-black-design-china-mobile-20927126.jpg"
       <svg viewBox="0 0 24 24" fill="currentColor" className="w-full h-full p-2">
         <path d="M4 4h16v2H4V4zm0 14h16v2H4v-2zM4 9h16v6H4V9z" />
       </svg>
