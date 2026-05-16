@@ -26,7 +26,7 @@ const brands = [
   },
   {
     name: "bKash",
-    logo: "https://i.ibb.co.com/1YhsvVx2/bkash.png",
+    logo: "https://i.postimg.cc/pd3HJm9Y/Bkash.jpg",
   },
   {
     name: "Infinix",
