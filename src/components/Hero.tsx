@@ -65,6 +65,7 @@ export default function Hero() {
         >
           {/* Main Hero Image Container */}
           <div className="relative aspect-[4/5] max-w-md mx-auto">
+          <div className="relative aspect-[4/5] w-full max-w-[22rem] sm:max-w-md mx-auto">
             <div className="absolute inset-0 bg-gradient-to-t from-primary via-transparent to-transparent z-10" />
             <div className="absolute -inset-4 bg-accent/10 blur-3xl rounded-full z-0 animate-pulse" />
             <div className="relative z-10 w-full h-full rounded-[40px] overflow-hidden border border-white/10 glass-dark">
@@ -76,6 +77,12 @@ export default function Hero() {
                     className="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 hover:brightness-100 transition-all duration-700" 
                  />
               </div>
+            <div className="relative z-10 w-full h-full rounded-[40px] overflow-hidden border border-white/10 glass-dark bg-secondary">
+              <img 
+                src="https://i.postimg.cc/kgH4JBBj/generated-image-65dfef69-a068-4e0e-b98a-20c347f7444b.png" 
+                alt="Rehman Hridoy" 
+                className="w-full h-full object-contain object-bottom grayscale brightness-75 hover:grayscale-0 hover:brightness-100 transition-all duration-700" 
+              />
             </div>
             
             {/* Floating Stats */}
